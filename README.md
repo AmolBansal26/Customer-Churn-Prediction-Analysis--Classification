@@ -32,4 +32,4 @@ The dataset contains information about Telco customers, including demographics, 
 ## How to Run
 1. Clone this repository:  
 ```bash
-git clone <repository_url>
+git clone https://github.com/AmolBansal26/Customer-Churn-Prediction-Analysis--Classification.git
